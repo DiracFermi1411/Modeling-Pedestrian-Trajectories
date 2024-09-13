@@ -1,3 +1,3 @@
 # Modeling-Pedestrian-Trajectories
 
-Still updating this repo
+Ongoing updates and improvements
