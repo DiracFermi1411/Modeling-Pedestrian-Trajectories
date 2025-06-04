@@ -1,3 +1,3 @@
 # Modeling-Pedestrian-Trajectories
 
-Ongoing updates and improvements
+lease refer to the report for detailed implementation information. Thank you!
